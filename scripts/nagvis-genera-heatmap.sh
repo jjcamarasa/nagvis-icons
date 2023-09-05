@@ -15,7 +15,7 @@ echo "define global {
 alias=Mapa de calor
 parent_map=cpd
 object_id=0
-iconset=cube-host 
+#iconset=put-your-iconset-here
 label_show=1
 label_y=+17
 label_background=transparent
